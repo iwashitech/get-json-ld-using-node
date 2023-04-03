@@ -1,0 +1,3 @@
+http://www.example.jp/
+http://www.example.jp/foo/
+http://www.example.jp/bar/
